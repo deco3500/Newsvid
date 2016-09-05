@@ -23,11 +23,11 @@ ________________
 
 ##Outline
 ###Introduction
-###1. Concept
-###2. Team
-###3. Communication
-###4. Plan
-###5. Tags
+###Concept
+###Team
+###Communication
+###Plan
+###Tags
 
 
 
@@ -55,7 +55,7 @@ We will also allow news companies to upload their own videos of the daily headli
 * Live streaming that will allow users to stream certain breaking news stories as they happen if they are on the scene
 * Voting: Allow user to rate the news quality and truthfulness - the rating also affect the news provider’s reputation.
 * Comment: Let user leave their opinions about the news in order to allow users have more interaction.
-* Let user can add friend and they can share news with each other
+* Let users add friends so they can share news with each other
 * Personalized recommended news based on the user’s interests, location and various other factors.
 
 
@@ -65,11 +65,9 @@ We will also allow news companies to upload their own videos of the daily headli
 
 
 ###Target users/audience：
-  
+Our target audience is simply anyone with a busy lifestyle that wants to find out about news quickly and effectively. This may not be ideal for older generations that are still interested in more traditional means of getting news, but having said that there is nothing that prevents anyone from using it as it is designed to be simple to use.  
 
-
-
-Because our mobile application provides much more concise and easily consumed news stories in the form of short videos, its network needs 4G to support its high performance in order to meet our aims, which demonstrates a growing number of potential customers.. According to above figure, we can see that the number of 4G mobile subscribers worldwide in 2016 is 591 million users who can meet our mobile application requirement. In addition, there is an increasing trend which predicts that there will be about 1.8 billion users in 2020. On the other hand, we pay more attention to the newspaper digital audience, they are familiar with digital newspaper and they are more willing to accept our new idea to read news due to their reading behavior. Our target audience is simply anyone with a busy lifestyle that wants to find out about news quickly and effectively. This may not be ideal for older generations that are still interested in more traditional means of getting news, but having said that there is nothing that prevents anyone from using it as it is designed to be simple to use. 
+Because our mobile application provides much more concise and easily consumed news stories in the form of short videos, its network needs 4G to support its high performance in order to meet our aims, which demonstrates a growing number of potential customers. The number of 4G mobile subscribers worldwide in 2016 is 591 million users who can meet our mobile application requirement. In addition, there is a trend which predicts about 1.8 billion users in 2020.[1] A vast majority of the current 4G users are from the younger generations, which largely overlaps with our main target audience outlined above.
 ##Team
 ###Team Member
 ####	Responsibility
@@ -80,13 +78,13 @@ Because our mobile application provides much more concise and easily consumed ne
 	
 
 * Making team decision:
-   * Step 1: Nominate the problem/decision that needs to made or dealt with.
+   * Step 1: Nominate the problem/decision that needs to be made or dealt with.
    * Step 2: Discuss on facebook messenger or have a meeting if necessary.
    * Step 3: If no compromises can be made, vote to get the majority choice.
-   * Step 4: After making a decision, no change or discuss will be made. Every member has to commit and respect that decision
+   * Step 4: After making a decision, no change or discussion will be made. Every member has to commit and respect that decision
 * Problem dealing rule: No criticizing, no blaming, having meeting and solving the problems then make sure it won’t happen again.
-* If a team member does not follow the rules or refuse to do the work, the team will report to the course coordinator.
-* Every member need to respect the others’ opinion
+* If a team member does not follow the rules or refuses to do the work, the team will report to the course coordinator.
+* Every member needs to respect the others’ opinion
 * If some cases are difficult to make a decision, for example the vote is tied, the project manager will make the decision.
       
 ####How will the team handle poor performance and resolve conflicts:
@@ -99,9 +97,10 @@ Conflict is not necessarily a bad thing. Healthy and constructive conflict is a 
 4. Agree to communicate – The most important thing throughout the resolution process is for everyone to keep communications open. The team members involved need to talk about the issue and discuss their feelings. Everyone should have active listening, because to move on you need to really understand where the other person is coming from. 
 
 
-If a team member is not able to finish his own work allocated by manager , we will:
-	Having a team meeting and discuss the problem with the member concerned.We will give assistance with the member.
-If the team member does not attend the team meeting or does not complete their work then they would need to provide a reason.
+If a team member is not able to finish his own work allocated by manager, we will:
+1. Have a team meeting and discuss the problem with the member concerned. We will provide assistance for the team member.
+2. If the team member does not attend the team meeting or does not complete their work then they would need to provide a reason.
+
       
 ##Communication
 ###Meeting:
@@ -115,7 +114,7 @@ If the team member does not attend the team meeting or does not complete their w
 	Work: Discussion and checking works
 	
 
-We’ve kept the meetings flexible according to our workload. Facebook is the main social platform for communicating between other team members. We have also set up a group on Facebook to post documents or important information, if there are some urgent case we have to deal with, we will discuss in the facebook chat and phone call. The team will upload documents on Google Drive during development and upload final products onto GitHub. 
+We’ve kept the meetings flexible according to our workload. Facebook is the main social platform for communicating between other team members. We have also set up a group on Facebook to post documents or important information, if there are some urgent case we have to deal with, we will discuss in the facebook chat and phone call. The team will upload documents on Google Drive during development and upload final products onto GitHub.
 
 
 ###Plan 
@@ -222,4 +221,4 @@ ________________
 References：
 
 
-http://www.statista.com/statistics/226101/global-4g-mobile-subscriber-forecast/
+[1] http://www.statista.com/statistics/226101/global-4g-mobile-subscriber-forecast/
