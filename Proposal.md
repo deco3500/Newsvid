@@ -118,41 +118,37 @@ If the team member does not attend the team meeting or does not complete their w
 We’ve kept the meetings flexible according to our workload. Facebook is the main social platform for communicating between other team members. We have also set up a group on Facebook to post documents or important information, if there are some urgent case we have to deal with, we will discuss in the facebook chat and phone call. The team will upload documents on Google Drive during development and upload final products onto GitHub. 
 
 
-Plan
-Assessment:       
-Assessment
-	Tasks
-	Deliverable 
-	Resource
-	Due date
-	Project Idea
-	A single slide explaining a certain journalistic dilemma they want to address as well as their solution
-	PDF
+###Plan 
+####Assessment:       
+	1/ Project Idea
+	Task: A single slide explaining a certain journalistic dilemma they want to address as well as their solution PDF
+	Deliverable: PDF file
+	Resource:
+	Due date: 12 Aug 2016 17:00
 	
-
-	12 Aug 16 17:00
-	Oral Pitch
-	A single slide explaining a certain journalistic dilemma they want to address as well as their solution
-	Presentation
-	* Collect feedback
-* Collect additional requirements
+	2/ Oral Pitch
+	Task: A single slide explaining a certain journalistic dilemma they want to address as well as their solution. Collect feedback, collect additional requirements.
+	Deliverable: Presentation
+	Resources:
+	Due date: 31 Aug 2016 08:00 - 5 Sep 2016 23:59
 	
-	31 Aug 16 08:00 - 5 Sep 16 23:59
-	Project Proposal
-	A single slide explaining a certain journalistic dilemma they want to address as well as their solution
-	PDF 
-	Feedback from Oral Pitch
-	28 Oct 16 23:59
-	Design Portfolio and Prototype
-	Develop a design portfolio, including a design prototype,and promotional video
-	PDF ,Design Prototype ,and Video Blog
-	Online survey (interview and  questionnaire)
-	 28 Oct 16 23:59
-	Reflective Essay
-	Write a reflective essay, up to 2000 words, that analyses the project within the theoretical context provided through seminars and self-directed learning.
-	PDF
-	Compiled Document
-	6 Nov 16 23:59
+	3/ Project proposal
+	Task: Create a markdown text explaining what to do to make the project and upload via GitHub
+	Deliverable: Proposal.md
+	Resources: Feedback from Oral Pitch
+	Due date: 28 Oct 16 23:59
+	
+	4/ Design Portfolio and Prototype
+	Task: Develop a design portfolio, including a design prototype,and promotional video 
+	Deliverable: PDF ,Design Prototype ,and Video Blog
+	Resources: Online survey (interview and  questionnaire)
+	Due date: 28 Oct 16 23:59
+	
+	5/ Reflective Essay
+	Task: Write a reflective essay, up to 2000 words, that analyses the project within the theoretical context provided through seminars and self-directed learning.
+	Deliverable: PDF
+	Resources: Compiled Document
+	Due date: 6 Nov 16 23:59
 	
 
 
@@ -160,63 +156,42 @@ Assessment
 ________________
 
 
-Project Plan
- 
-Date
-	Tasks
-	members
-	12/9/16
-	1.     Survey for UQ student by interview or online questionnaire
-	1Tom
-2Johnny
-	14/9/16
-	1. To analyze the survey
-2.     Based on the survey feedback to finish UI and UX design
-	1.Tien,
-2.Harrison 
-	 18/9/ 16
-	1.     Design Paper Prototype 
-2.   Discussion and modify prototype
-	1. Tien, Johnny
-2. Team
-	 25/9/ 16
-	1.     Work on simple mobile application interface
-2.     Develop basic feature
-	1. Tien
-2. Tien, Johnny
+####Project Plan
+ 	1/Date: 12/9/2016
+	Tasks: Survey for UQ student by interview or online questionnaire
+	Responsibility: Tom, Johnny
 
+	2/Date: 14/9/2016
+	Tasks: Analyze survey, designing UI and UX design
+	Responsibility: Tien, Harrison 
+	
+	3/ Date: 18/9/2016
+	Tasks: Design Paper Prototype, disccus and modify prototype
+	Responsibility: Tien, Johnny
 
-	 30/9/ 16
-	1. Gather feedback on paper Prototype
-2.     Present a limited functioning prototype to users
-3. Design Video content
-	1. Harrison
-2. Tien
-3. Johnny
-4. Tom
-	 2/10/ 16
-	      1.     Script Video
+	4/ Date: 25/9/2016
+	Tasks: Work on simple mobile application interface. Develop basic feature
+	Responsibility: Tien, Johnny
 
+	5/ Date:30/9/2016
+	Tasks: Gather feedback on paper Prototype, present a limited functioning prototype to users, design Video content
+	Responsibility: Team
+	
+	6/ Date: 2/10/2016
+	Tasks: create script Video
+	Responsibility: Johnny, Harrison
 
-	1. Johnny
-2.Harrison
-	 2/10/ 16
-	1.     Film and edit video
-2     Start Design Portfolio
-	1. Johnny
- 2.Harrison
+	7/ Date: 2/10/2016
+	Tasks: Film and edit video, start Design Portfolio
+	Responsibility: Johnny, Harrison
 
-
-	27/10/ 16
-	1.     Submit Design Portfolio
-2.     Present Interactive Prototype
-	    1.Harrison
-    2.Tien
-    3.Johnny
-    4.Tom
-	28/10/ 16
-	1.     Work on Individual Essay
-	Individual
+	8/ Date: 27/10/ 16
+	Tasks: Submit Design Portfolio, present Interactive Prototype
+	Responsibility: Team.
+	
+	9/ Date: 28/10/ 16
+	Tasks: Work on Individual Essay.
+	Responsibility: Individual
 	
 
 
