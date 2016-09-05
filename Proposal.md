@@ -73,14 +73,10 @@ Because our mobile application provides much more concise and easily consumed ne
 ##Team
 ###Team Member
 ####	Responsibility
-	Tom Hemy
-	Project Manager, back end
-	Johnny Wong
-	Logistics, features design, back end 
-	Tien Vinh Truong
-	Designing mockup & features,back end
-	Harrison Lisewski
-	Multimedia design, front end
+	Tom Hemy: Project Manager, back end
+	Johnny Wong: Logistics, features design, back end 
+	Tien Vinh Truong: Designing mockup & features,back end
+	Harrison Lisewski: Multimedia design, front end
 	
 
 * Making team decision:
@@ -93,7 +89,7 @@ Because our mobile application provides much more concise and easily consumed ne
 * Every member need to respect the others’ opinion
 * If some cases are difficult to make a decision, for example the vote is tied, the project manager will make the decision.
       
-How will the team handle poor performance and resolve conflicts:
+####How will the team handle poor performance and resolve conflicts:
 Conflict is not necessarily a bad thing. Healthy and constructive conflict is a component of high-functioning teams. Everyone has different opinion and experience, we need various constructive idea to make teamwork more effective.However when we have any disputes,we have some rules to take actions:
 
 
@@ -104,29 +100,19 @@ Conflict is not necessarily a bad thing. Healthy and constructive conflict is a 
 
 
 If a team member is not able to finish his own work allocated by manager , we will:
-
-
-1. Having a team meeting and discuss the problem with the member concerned.We will 
-             give assistance with the member.
-	
-
-	1. If the team member does not attend the team meeting or does not complete their work then they would need to provide a reason.
+	Having a team meeting and discuss the problem with the member concerned.We will give assistance with the member.
+If the team member does not attend the team meeting or does not complete their work then they would need to provide a reason.
       
-Communication
-Meeting:
-Place
-	Time
-	Work
-	Members
-	Building 49 at UQ
-	Wednesday 2pm to 4pm
-	Document work
-	Whole team
-	Engineering and Sciences Library at UQ
-	Tuesday
-2pm to 3pm
-	Discussion and checking works
-	Whole team
+##Communication
+###Meeting:
+	1/
+	Place: Building 49 
+	Time: Wednesday 2pm to 4pm
+	Work: Document work
+	2/
+	Place: Engineering and Sciences Library at UQ
+	Tuesday: 2pm to 3pm
+	Work: Discussion and checking works
 	
 
 We’ve kept the meetings flexible according to our workload. Facebook is the main social platform for communicating between other team members. We have also set up a group on Facebook to post documents or important information, if there are some urgent case we have to deal with, we will discuss in the facebook chat and phone call. The team will upload documents on Google Drive during development and upload final products onto GitHub. 
