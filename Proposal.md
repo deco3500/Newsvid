@@ -150,6 +150,7 @@ Assessment
 	Presentation
 	* Collect feedback
 * Collect additional requirements
+	
 	31 Aug 16 08:00 - 5 Sep 16 23:59
 	Project Proposal
 	A single slide explaining a certain journalistic dilemma they want to address as well as their solution
