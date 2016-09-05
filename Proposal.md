@@ -198,24 +198,23 @@ ________________
 
 
 
-	Programming language
-	tools
-	member
-	Application
-(Android)
-	C++/java
-	Visual studio
-	Tien, Johnny
-	Website
-	HTML ,css,javascript
-	Sublime or notepad++
-Or Visual studio
-	Harrison 
-	server
-	PHP,SQL
-	Netbeans
-	Tom
-	Tags
+####Development
+	1/ Application(Android)
+	Programming language: C++/java
+	Tool: Visual studio
+	Responsibility: Tien, Johnny
+	
+	2/ Website
+	Programming language: HTML ,css,javascript
+	Tool: Sublime or notepad++ or Visual studio
+	Responsibility: Harrison 
+	
+	3/ Server
+	Programming language: PHP,SQL
+	Tool: Netbeans
+	Responsibility: Tom
+	
+##Tags
 * Key concepts: #Awareness, #MoSoSo, #CSCW, #Coordination, #Collaboration 
 * Journalism & News: #journalist, #reporter.
 
