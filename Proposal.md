@@ -1,5 +1,5 @@
-DECO3500 - Social & Mobile Computing
-Project proposal
+#DECO3500 - Social & Mobile Computing
+#Project proposal
 
 
 
@@ -8,30 +8,12 @@ Project proposal
 
 
 
-Team: Newsvid
-Members
-Tien Vinh Truong - 4421567 
-Tom Hemy - 43235452 
-Johnny Wong - 43670594
-Harrison lisewski - 43590245 
-
-
-
-
-________________
-
-
-Outline
-Introduction
-1. Concept
-2. Team
-3. Communication
-4. Plan
-5. Tags
-
-
-
-
+##Team: Newsvid
+##Members
+###Tien Vinh Truong - 4421567 
+###Tom Hemy - 43235452 
+###Johnny Wong - 43670594
+###Harrison lisewski - 43590245 
 
 
 
@@ -39,19 +21,37 @@ Introduction
 ________________
 
 
-Introduction
+##Outline
+###Introduction
+###1. Concept
+###2. Team
+###3. Communication
+###4. Plan
+###5. Tags
+
+
+
+
+
+
+
+
+________________
+
+
+##Introduction
 Traditional mediums of news often take a long time to watch or read. Not only that but most important news is published on next day by world’s biggest or national media companies. In today’s fast paced lifestyles this is problematic and is potentially driving people away from the news. Newsvid is aimed at providing much more concise and easily consumed news stories in the form of short videos uploaded by both news corporations and individuals.
 Another problem that exists in the current news media is that to find out about a story, people have to wait until the article has been published or broadcast, which can take time and can lead to news being outdated once it is distributed. By allowing individuals to upload their own videos if they are on the scene removes this waiting period and creates a truly up to date news platform.
 
 
-Concept
-Idea:
+##Concept
+###Idea:
 The aim of this application is to create a new way of consuming news. By providing smaller and more concise segments of visual reporting we can change traditional reading behaviours and allow users to consume news as fast as possible. Being mobile lets anybody catch up on the news wherever they are as it would just take a few minutes to watch breaking news or top stories with 24 hour around the world coverage. There are most certainly social media platforms that allow anyone to post news if they want but not necessarily in a verifiable, trustworthy way. 
 We want to make news more reliable and accurate. Letting users create their own videos from the scene of the story gives an immediate accuracy so that you know the truth as it happens. By allowing moderators or specific trusted people to approve new user created videos we create a much more reliable environment and the trust is placed on a smaller, well known group rather than any anonymous user.
 We will also allow news companies to upload their own videos of the daily headlines or whatever segment they choose. These particular videos will also include a link to the full report on the company’s website.
 
 
-Possible additional features
+###Possible additional features
 * Live streaming that will allow users to stream certain breaking news stories as they happen if they are on the scene
 * Voting: Allow user to rate the news quality and truthfulness - the rating also affect the news provider’s reputation.
 * Comment: Let user leave their opinions about the news in order to allow users have more interaction.
@@ -59,20 +59,20 @@ Possible additional features
 * Personalized recommended news based on the user’s interests, location and various other factors.
 
 
-Rationale:
+###Rationale:
 * People may find watching long news programs time-consuming and boring, which can result in them being less aware of their own society. Moreover, some news providers can’t be trusted and may hide some information from their viewers.
 * With users being able to submit their own content, more stories are able to be told and with moderators staying on top of user submitted content, users can choose verified news that is provided with evidence or unverified news where they see stories that may or may not be true at their own risk.
 
 
-Target users/audience：
+###Target users/audience：
   
 
 
 
 Because our mobile application provides much more concise and easily consumed news stories in the form of short videos, its network needs 4G to support its high performance in order to meet our aims, which demonstrates a growing number of potential customers.. According to above figure, we can see that the number of 4G mobile subscribers worldwide in 2016 is 591 million users who can meet our mobile application requirement. In addition, there is an increasing trend which predicts that there will be about 1.8 billion users in 2020. On the other hand, we pay more attention to the newspaper digital audience, they are familiar with digital newspaper and they are more willing to accept our new idea to read news due to their reading behavior. Our target audience is simply anyone with a busy lifestyle that wants to find out about news quickly and effectively. This may not be ideal for older generations that are still interested in more traditional means of getting news, but having said that there is nothing that prevents anyone from using it as it is designed to be simple to use. 
-Team
-Team Member
-	Responsibility
+##Team
+###Team Member
+####	Responsibility
 	Tom Hemy
 	Project Manager, back end
 	Johnny Wong
