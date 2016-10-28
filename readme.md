@@ -1,4 +1,30 @@
 #DECO3500 - Social & Mobile Computing
+###Promotional website: [Here](http://tvtkg25102.wixsite.com/deco3500)
+###Working prototype: [Here](https://github.com/deco3500/Newsvid/app-debug.apk)
+###Process Documentation: [Here](https://github.com/deco3500/Newsvid/Developmentdocumentation.pdf)
+___
+___
+#Summary
+Newsvid is an app that is designed to optimise the way people can view the news by shortening the time required while still providing as much information as a regular news channel. Newsvid also aims to put an end to the control of media by encouraging anybody to make the news,which can be done by uploading short videos from the scene of any news event. The app also includes a social aspect by allowing viewers to comment on and rate videos, and become moderators by being outstanding participants in the online community. 
+___
+___
+
+#To install:
+1. Download the .apk linked above and install on any android device.
+2. Alternatively:
+   * Download and install Android Studio from [here.](https://developer.android.com/studio/index.html) Make sure to include the android emulator component.
+   * Download and unpack the [35phototype](https://github.com/deco3500/Newsvid/35phototype.zip) folder and import the project into android studio
+   * Build and run the project in the emulator
+   * For the prototype, log in with username: "user" and password: "user"
+
+
+
+________________________
+________________________
+
+
+
+
 #Project proposal
 
 
