@@ -1,7 +1,7 @@
 #DECO3500 - Social & Mobile Computing
 ###Promotional website: [Here](http://tvtkg25102.wixsite.com/deco3500)
-###Working prototype: [Here](https://github.com/deco3500/Newsvid/app-debug.apk)
-###Process Documentation: [Here](https://github.com/deco3500/Newsvid/Developmentdocumentation.pdf)
+###Working prototype: [Download from here](https://github.com/deco3500/Newsvid/blob/master/app-debug.apk)
+###Process Documentation: [Here](https://github.com/deco3500/Newsvid/blob/master/Developmentdocumentation.pdf)
 ___
 ___
 #Summary
@@ -13,7 +13,7 @@ ___
 1. Download the .apk linked above and install on any android device.
 2. Alternatively:
    * Download and install Android Studio from [here.](https://developer.android.com/studio/index.html) Make sure to include the android emulator component.
-   * Download and unpack the [35phototype](https://github.com/deco3500/Newsvid/35phototype.zip) folder and import the project into android studio
+   * Download and unpack the [35phototype](https://github.com/deco3500/Newsvid/blob/master/35phototype.zip) folder and import the project into android studio
    * Build and run the project in the emulator
    * For the prototype, log in with username: "user" and password: "user"
 
