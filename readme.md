@@ -21,7 +21,8 @@ Nowaday, people are less attractive to watch daily news on TV because of lacking
 ___
 ___
 
-#
+#Idea evolution
+*Original idea: The team was form
 ________________________
 ________________________
 
