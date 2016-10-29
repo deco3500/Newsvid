@@ -23,7 +23,7 @@ ___
 
 #Idea evolution
  * Original idea: The team was formed with the concept that creates a application where news video are displayed like Snapchat. The video can be quick switched to another one by wipping finger horizontal which mean user can quickly check every news in a day.
- * Primary change/evolution: 
+ * Primary change/evolution: The application will display the daily news which collected from TV and convert them into shorter videos, the idea is to optimize the information people get but in shorter time. The application still keep the original functions are watch news in video and switch by wipping.
 
 ________________________
 ________________________
