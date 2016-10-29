@@ -4,10 +4,6 @@
 ###Process Documentation: [Here](https://github.com/deco3500/Newsvid/blob/master/Developmentdocumentation.pdf)
 ___
 ___
-#Summary
-Newsvid is an app that is designed to optimise the way people can view the news by shortening the time required while still providing as much information as a regular news channel. Newsvid also aims to put an end to the control of media by encouraging anybody to make the news,which can be done by uploading short videos from the scene of any news event. The app also includes a social aspect by allowing viewers to comment on and rate videos, and become moderators by being outstanding participants in the online community. 
-___
-___
 
 #To install:
 1. Download the .apk linked above and install on any android device.
@@ -16,8 +12,10 @@ ___
    * Download and unpack the [35phototype](https://github.com/deco3500/Newsvid/blob/master/35phototype.zip) folder and import the project into android studio
    * Build and run the project in the emulator
    * For the prototype, log in with username: "user" and password: "user"
-
-
+___
+___
+#Problem space
+Nowaday, people are less attractive to watch daily news on TV because of lacking of time and getting long and boring information. A way to optimize the way people get the news by shorten the time but still provides sufficient information is needed. Moreover, many audiences have already been and being fed up with lies and unspoken truth which vox populi is suppressed. Mass media suppose to deliver these news, these information to everyone, to tell the untold, to show the unseen. However, they are easily controlled by corrupted government who is trying to cover up their dirty business among their own citizens.
 
 ________________________
 ________________________
