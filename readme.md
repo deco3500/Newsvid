@@ -14,6 +14,7 @@ ___
    * For the prototype, log in with username: "user" and password: "user"
 ___
 ___
+
 #Problem space
 Nowaday, people are less attractive to watch daily news on TV because of lacking of time and getting long and boring information. A way to optimize the way people get the news by shorten the time but still provides sufficient information is needed. Moreover, many audiences have already been and being fed up with lies and unspoken truth which vox populi is suppressed. Mass media suppose to deliver these news, these information to everyone, to tell the untold, to show the unseen. However, they are easily controlled by corrupted government who is trying to cover up their dirty business among their own citizens.
 
