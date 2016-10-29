@@ -23,7 +23,9 @@ ___
 
 #Idea evolution
  * Original idea: The team was formed with the concept that creates a application where news video are displayed like Snapchat. The video can be quick switched to another one by wipping finger horizontal which mean user can quickly check every news in a day.
- * Primary change/evolution: The application will display the daily news which collected from TV and convert them into shorter videos, the idea is to optimize the information people get but in shorter time. The application still keep the original functions are watch news in video and switch by wipping.
+ * Primary change/evolution: The application will display the daily news which collected from TV and convert them into shorter videos, the idea is to optimize the information people get but in shorter time. The application still keep the original functions are watch news in video and switch by wipping. The user can freely choose their desire new providers.
+ * New feature #1: UReport - Let user streaming or recording their own videos and upload it into a particular zone sorted by region based on the place they upload it. This concept is inspired of living in a corrupted contry where mass media is controlled by government and the truth is covered and citizen is blindfolded by their lies. For those people who knows the truth but is threaten to keep silent, they can freely announce for the world what is really happening but can keep their idenity hidden.
+ * New feature #2: Center of Fact - Application will be a place where every new channels from all over the world will be displayed and let every users watch and compare the perspectives from these providers. 
 
 ________________________
 ________________________
