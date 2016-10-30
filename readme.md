@@ -1,6 +1,7 @@
 #DECO3500 - Social & Mobile Computing
 ###Promotional website: [Here](http://tvtkg25102.wixsite.com/deco3500)
 ###Working prototype: [Download from here](https://github.com/deco3500/Newsvid/blob/master/app-debug.apk)
+###Alternative prototype: [Direct link](https://creator.ionic.io/share/48de1889fa75)
 ###Process Documentation: [Here](https://github.com/deco3500/Newsvid/blob/master/Developmentdocumentation.pdf)
 ___
 ___
