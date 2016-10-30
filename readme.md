@@ -13,6 +13,7 @@ ___
    * Download and unpack the [35phototype](https://github.com/deco3500/Newsvid/blob/master/35phototype.zip) folder and import the project into android studio
    * Build and run the project in the emulator
    * For the prototype, log in with username: "user" and password: "user"
+
 ___
 ___
 
